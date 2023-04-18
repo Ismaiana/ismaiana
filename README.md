@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Gabi-nutrition website.**
 
-- 🌱 I’m currently learning **C#, .NET and improving React skills.**
+- 🌱 I’m currently learning **C#, .NET, php and improving React skills.**
 
 - 💼 I'm currently looking for new employment opportunities.
 
