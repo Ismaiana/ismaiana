@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ismaiana-lima" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ismaiana-lima" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ismaiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismaiana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ismaiana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismaiana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismaiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismaiana" height="30" width="40" /></a>
 </p>
 
