@@ -59,5 +59,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaiana&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiana=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiana&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
