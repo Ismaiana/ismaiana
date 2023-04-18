@@ -7,6 +7,7 @@
 
 - 💙 I'm a full-stack developer who graduated from Hackbright bootcamp in 2023. I've been coding for about two years and I am currently working on projects while continuing to learn new technologies. My background is in HR, which I graduated from in 2018 and worked in for over three years. In my free time, I enjoy playing video games, exercising, and exploring new places. 
 
+#
 
 - 👨‍💻 All of my projects are available at http://ismaiana.com
 
@@ -18,6 +19,8 @@
 
 - 💼 I'm currently looking for new employment opportunities.
 
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ismaiana-lima" target="blank">
@@ -25,6 +28,8 @@
 <a href="https://www.hackerrank.com/ismaiana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismaiana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismaiana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismaiana" height="30" width="40" /></a>
 </p>
+
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -58,9 +63,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-
-
 #
+
 <h3 align="left">Statistics:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiana&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
