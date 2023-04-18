@@ -7,9 +7,9 @@
 
 - 💙 I'm a full-stack developer who graduated from Hackbright bootcamp in 2023. I've been coding for about two years and I am currently working on projects while continuing to learn new technologies. My background is in HR, which I graduated from in 2018 and worked in for over three years. In my free time, I enjoy playing video games, exercising, and exploring new places. 
 
-#
-
 - 👨‍💻 All of my projects are available at http://ismaiana.com
+
+#
 
 <h3 align="left">What I am doing:</h3>
 
