@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaiana&show_icons=true&theme=transparent)
+
 <h1 align="center">🔵 Hello! I'm Ismaiana Lima 💻</h1>
 <h4 align="center">A passionate full stack developer.</h4>
 
