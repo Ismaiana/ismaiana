@@ -3,11 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaiana&label=Profile%20views&color=0e75b6&style=flat" alt="ismaiana" /> </p>
 
+<h3 align="left">About me:</h3>
+
+- 💙 I'm a full-stack developer who graduated from Hackbright bootcamp in 2023. I've been coding for about two years and I am currently working on projects while continuing to learn new technologies. My background is in HR, which I graduated from in 2018 and worked in for over three years. In my free time, I enjoy playing video games, exercising, and exploring new places. 
+
+
+- 👨‍💻 All of my projects are available at http://ismaiana.com
+
+<h3 align="left">What I am doing:</h3>
+
 - 🔭 I’m currently working on **Gabi-nutrition website.**
 
 - 🌱 I’m currently learning **C#, .NET and improving React skills.**
 
-- 👨‍💻 All of my projects are available at http://ismaiana.com
+- 💼 I'm currently looking for new employment oportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
