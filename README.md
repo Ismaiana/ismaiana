@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#, .NET and improving React skills.**
 
-- 👨‍💻 All of my projects are available at [ismaiana.com] (http://ismaiana.com)
+- 👨‍💻 All of my projects are available at ismaiana.com (http://ismaiana.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
