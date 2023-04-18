@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaiana&label=Profile%20views&color=0e75b6&style=flat" alt="ismaiana" /> </p>
 
-- 🔭 I’m currently working on **Gabi-nutrition website**
+- 🔭 I’m currently working on **Gabi-nutrition website.**
 
 - 🌱 I’m currently learning **C#, .NET and improving React skills.**
 
