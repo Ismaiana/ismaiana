@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **C#, .NET and improving React skills.**
 
-- 💼 I'm currently looking for new employment oportunities.
+- 💼 I'm currently looking for new employment opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
