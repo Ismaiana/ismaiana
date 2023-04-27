@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at http://ismaiana.com
 
-<div align="center">
-  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="200px" />
-</div>
-
 #
 
 <h3 align="left">What I am doing:</h3>
@@ -22,6 +18,10 @@
 - 🌱 I’m currently learning **php and improving React skills.**
 
 - 💼 I'm currently looking for new employment opportunities.
+
+<div align="center">
+  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="200px" />
+</div>
 
 #
 
