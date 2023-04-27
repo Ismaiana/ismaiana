@@ -20,7 +20,7 @@
 - 💼 I'm currently looking for new employment opportunities.
 
 <div align="center">
-  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="200px" />
+  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="250px" />
 </div>
 
 #
