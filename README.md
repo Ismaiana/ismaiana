@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at http://ismaiana.com
 
 <div align="center">
-  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="100px" />
+  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="200px" />
 </div>
 
 #
