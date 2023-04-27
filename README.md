@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at http://ismaiana.com
 
-![]("https://tenor.com/view/work-computer-typing-busy-gif-17302654")
+![]("https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif")
 
 #
 
