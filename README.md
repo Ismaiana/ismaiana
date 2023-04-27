@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at http://ismaiana.com
 
-![](https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif)
+<div align="center">
+  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="100px" />
+</div>
 
 #
 
