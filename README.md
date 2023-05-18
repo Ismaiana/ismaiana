@@ -13,9 +13,9 @@
 
 <h3 align="left">What I am doing:</h3>
 
-- 🔭 I’m currently working on **Gabi-nutrition website.**
+- 🔭 I’m currently working on **DvAuto Website.**
  
-- 🌱 I’m currently learning **php and improving React skills.**
+- 🌱 I’m currently improving **React.js and data skills.**
 
 - 💼 I'm currently looking for new employment opportunities.
 
