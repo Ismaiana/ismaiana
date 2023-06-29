@@ -72,4 +72,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiana&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Ismaiana's GitHub](https://github-readme-stats.vercel.app/api?username=ismaiana&theme=transparent&show_icons=true&bg_color=00000000)
+
