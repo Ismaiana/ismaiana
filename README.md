@@ -15,7 +15,6 @@
  
 - 🌱 I’m currently improving **React.js and data skills.**
 
-- 💼 I'm currently looking for new employment opportunities.
 
 
  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="250px" />
