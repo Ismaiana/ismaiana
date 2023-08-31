@@ -3,14 +3,6 @@
 
 
 
-<h3 align="left">What I am doing:</h3>
-
-- 🔭 I’m currently working on **DvAuto Website.**
- 
-- 🌱 I’m currently improving **React.js and data skills.**
-
-
-
  <img src="https://github.com/Ismaiana/ismaiana/blob/main/work-computer.gif" width="250px" />
 
 
