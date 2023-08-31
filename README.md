@@ -2,7 +2,6 @@
 <h4 align="center">Full stack developer</h4>
 
 
-#
 
 <h3 align="left">What I am doing:</h3>
 
